@@ -29,3 +29,6 @@ Brad Traversy
 ### License
 
 This project is licensed under the MIT License
+
+YouTube link
+https://www.youtube.com/watch?v=IkOVe40Sy0U
